@@ -37,7 +37,7 @@ setup(
     },
     install_requires=[
         'pysaml2>=6.5.1',
-        'xmlschema==1.7.1',
+        'xmlschema>=1.7.1',
         'requests>=2.25.1',
         'lxml==5.4.0',
         'Jinja2>=2.11.3',
